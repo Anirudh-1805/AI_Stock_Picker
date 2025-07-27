@@ -1,0 +1,5 @@
+crewai[tools]>=0.141.0,<1.0.0
+python-dotenv
+requests
+pydantic
+streamlit 
